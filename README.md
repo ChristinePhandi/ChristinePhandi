@@ -2,7 +2,7 @@
 - 👀 I’m interested in javascript development field
 - 🌱 I’m currently learning React.js, React Native & Node.js
 - 💞️ I’m looking to collaborate on any interesting project
-- 📫 How to reach me ? @christinephandi 
+- 📫 How to reach me ? @christinephandi / christinephan22@gmail.com
 
 <!---
 ChristinePhandi/ChristinePhandi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
